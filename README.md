@@ -2,7 +2,10 @@
 
 Author: Aleksandar Koruga
 
-FS1 simulator
+FS1 Analog Pitch Shifter simulator
+
+Hilbert transform based on https://github.com/Signalsmith-Audio/hilbert-iir/ (Copyright (c) 2024 Geraint Luff / Signalsmith Audio Ltd.)
+
 
 ### Requirements
 
